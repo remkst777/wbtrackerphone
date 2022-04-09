@@ -13,7 +13,7 @@
     "react-navigation": "^3.9.1",
     "react-router-dom": "^5.0.0",
     "react-router-native": "^5.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react-native-pure-chart": "0.0.24"
   },
   "devDependencies": {
